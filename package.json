@@ -27,7 +27,7 @@
         "express": "~3.4.0",
         "socket.io": "~0.9.16",
         "async": "0.1.22",
-        "underscore": "1.4.3",
+        "underscore": "1.12.1",
         "coffee-script": "1.4.0"
     },
     "devDependencies": {
